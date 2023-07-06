@@ -1,11 +1,7 @@
 body {
     margin: 20px;
-    /*
-    Challenge:
-    Find a web safe font you like, and add it 
-    to your card.
-    */
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
 }
 
 .avatar {
@@ -23,11 +19,7 @@ body {
     color: #0a0908;
     border-bottom: 6px solid #22333b;
         
-    /*
-    Challenge:
-    Find a color palette you like on Coolors.co
-    and use it in your business card.
-     */
+    
 }
 
 .border-blue {
